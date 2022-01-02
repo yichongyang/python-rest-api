@@ -1,2 +1,10 @@
-{'name': 'Alice', 'email': 'alice@outlook.com'}
-{'name': 'Jane', 'email': 'jane@outlook.com'}
+[
+  {
+    "name": "Alice",
+    "email": "alice@outlook.com"
+  },
+  {
+    "name": "Jane",
+    "email": "jane@outlook.com"
+  }
+]
