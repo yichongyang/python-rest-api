@@ -92,4 +92,4 @@ def delete_record_path(name):
 #app.run()
 
 if __name__ == "__main__":
-    app.run(ssl_context=('../cert/cert.pem', '../cert/key.pem'), port=5443)
+    app.run(ssl_context=('./cert/cert.pem', './cert/key.pem'), port=5443)
